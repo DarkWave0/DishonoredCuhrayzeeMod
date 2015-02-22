@@ -1,0 +1,3 @@
+- What are the inhibition times in the A.I.ini? They look like stun times for different enemy attacks.
+- can i add b_explodes rats=False to wind blast?
+- Dishonoredpowers.ini contains some settings about blink. might be able to change distance and such there.
