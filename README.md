@@ -1,12 +1,6 @@
 #  Dishonored Cuhrayzee mod
-The goal of this mod is to motivate and inspire players to experiment with the game's already excellent mechanics and accomodate the damage output that this comes with. It uses the excellent Dishonored Ultimate Difficulty Mod by JDV as a base since most of the changes it makes are also applicable to what i want to achieve with this mod. This mod will be focusing on the raw action-game aspect of dishonored. 
+The goal of this mod is to motivate and inspire players to experiment with the game's already excellent mechanics and accomodate the damage output that this comes with. It uses the excellent Dishonored Ultimate Difficulty Mod by JDV as a base since most of the changes it makes are also applicable to what I want to achieve with this mod. This mod will be focusing on the raw action-game aspect of dishonored. 
 
-*update*
- When testing the previous version i noticed that even though i lowered mana cost to 0, the mana recovery you get from using   
- powers is still intact. It is my plan to disable this mana recovery and add some cost for the overpowered powers like Blink 
- and Time Bend, and leave it intact for others that are less often used such as rat summon, and possess. This way i hope to 
- motivate players to use a variety of powers. 
- The problem is i do not know what file to edit to find these settings.
 
 
 
@@ -32,7 +26,6 @@ top priority to-do:
 
 Medium Priority to-do:
 -  8] Increase gadget # added upon pickup and buying.
-- 13] Disable mana recovery on blink and Time Bend, increase their mana cost to 20 and 30 respectively.
 
 lower priority to-do:
 -  9] add more enemies.
